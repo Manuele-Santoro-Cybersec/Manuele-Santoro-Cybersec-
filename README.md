@@ -1,30 +1,28 @@
-# Hi, I'm Manuele! 👋
+# Manuele Santoro | Junior SOC Analyst Portfolio
+> **Current Focus:** HTB Junior Cybersecurity Analyst Path (40%) and certification [HTB CJCA](https://academy.hackthebox.com/exams/7/)
 
-## 📸 From Visual Precision to Cyber Defense
-I am a **Senior Professional** currently pivoting from high-end digital photography (Real Estate sector, UK) to **Digital Forensics and Incident Response (DFIR)**. My background in professional photography has developed my relentless attention to detail and ability to handle complex digital assets—skills I now leverage for threat detection and log analysis.
+## 🛡️ About Me
+I am a detail-oriented professional currently **transitioning from a career in professional photography into Cybersecurity**. My experience in photography has trained me to identify "needles in a haystack"—a skill I now apply to threat detection and log analysis.
+
+I am leveraging my technical troubleshooting skills and precision-focused mindset to protect digital assets. Currently building hands-on experience in log analysis, web application security, and incident response through Hack The Box.
+
+## 📈 Learning Progress
+- **HTB Junior Analyst Path:** [███████░░░] 52%
+- **Current Module:** Introduction to Web Applications
+- **Target Completion:** May 2026
+
+## 📁 Portfolio Map
+- **[HTB-Academy-Writeups](./HTB-Academy-Writeups):** Technical breakdowns of HTB modules.
+- **[HTB-Sherlocks](./HTB-Sherlocks):** Blue Team incident response labs.
+- **[Projects](./Projects):** Home lab setups and custom security tools.
+
+## 🛠️ Transferable Skills (Photography to SOC)
+| Skill | How it applies to Cybersecurity |
+| :--- | :--- |
+| **Attention to Detail** | Spotting anomalies in thousands of lines of system logs. |
+| **Working Under Pressure** | Staying calm during high-stakes incident response (similar to live events). |
+| **Technical Troubleshooting** | Solving complex hardware/software issues on the fly. |
+| **Data Integrity** | Managing, backing up, and securing large volumes of sensitive client data. |
 
 ---
-
-### 🛡️ Cybersecurity Expertise
-I am actively building my expertise in Blue Team operations, currently focused on the **HTB Junior Analyst Path**.
-
-* **Sherlock Investigations:** Hands-on experience in analyzing APT scenarios (Lazarus, RomCom).
-* **Digital Forensics:** Proficient in Windows artifact analysis ($MFT, Registry, LNK files, USNJournal).
-* **Hybrid Workflow:** I utilize **Linux environments** (Bash, grep, awk) for high-speed data processing and incident correlation.
-
-### 💻 Software Development & Automation
-I believe in understanding the "how" behind the tools.
-* **C# Development:** Currently mastering C# (via The C# Player's Guide) to understand Windows internals and automate security tasks.
-* **Automation:** Building custom scripts to streamline forensic artifact extraction.
-
----
-
-### 📂 Featured Projects
-* **[Sherlock Write-ups](./cybersec/HTB-Sherlocks):** Detailed analysis of recent cyber threats and forensic investigations.
-* **[C# Security Labs](./CSharp):** Security-oriented tools and software development exercises.
-* **[Learning Notes and Methodology](./cybersec/HTB-Academy-Writeups):** Documentation on structured Penetration Testing and SOC workflows.
-
----
-
-📫 **Connect with me:** [https://www.linkedin.com/in/manuelesantoro/]
-*"Methodology over tools. Analysis over guesswork."*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/manuelesantoro/)*
